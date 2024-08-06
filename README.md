@@ -47,4 +47,4 @@ Recognition results
 
 ### Authors
 
-Van Thieo
+Van Thiep
